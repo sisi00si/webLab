@@ -20,13 +20,13 @@ This is a simple Node.js application that allows users to send emails using a we
     EMAIL_PASS=email-password
     ```
 
-2. Run the application using `npm start`.
+2. Run the application.
 3. Open a web browser and navigate to `http://localhost:3000` to access the email sender interface.
 4. Fill out the form with the recipient's email address, subject, and message, then click "Send Email".
 
 ## Deployment
-You can deploy this application to a cloud platform like Heroku following these steps:
-1. Create a Heroku account if you don't have one.
+]Deployment is accomplished by a cloud platform like Heroku following these steps:
+1. Create a Heroku account.
 2. Install the Heroku CLI.
 3. Log in to Heroku using `heroku login` command in your terminal.
 4. Create a new Heroku app using `heroku create`.
